@@ -16,7 +16,7 @@ sıcaklık izleme ve veri kayıt sistemi.
 - Approved through Ministry of Agriculture testing process
 
 ## Documentation
-Tüm teknik dokümanlar `docs/technical_report` dizininde yer almaktadır.
+Tüm teknik dokümanlar `docs` dizininde yer almaktadır.
 
 ## License
 This project is documented for educational and technical reference purposes.
